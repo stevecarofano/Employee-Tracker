@@ -1,5 +1,7 @@
 # Employee-Tracker :computer: 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 This is a CLI application utilizing the Inquirer package from Node.js and a MySQL database to store, update or delete information in a business setting
@@ -13,7 +15,7 @@ This is a CLI application utilizing the Inquirer package from Node.js and a MySQ
 * [Contributors](#contributors)
 * [License](#license)
 
-## Installation
+## Installation :heavy_check_mark:
 
 Follow these steps to create a local copy of this repository so you can edit too!
 1. Navigate to https://github.com/stevecarofano/Employee-Tracker
@@ -28,7 +30,7 @@ Follow these steps to create a local copy of this repository so you can edit too
     
 6. Congratulations! You now have a local copy of this repository and you can make your own changes to it!
 
-## Usage
+## Usage :hammer_and_wrench:
 
 * Be sure to  have Node.js installed and run ``` npm i ``` in the root of the repository to install needed dependencies
 
