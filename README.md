@@ -44,6 +44,8 @@ Usage of this application is quite simple, let's go ahead and try:
 
 ![demo](employee-demo.gif)
 
+![extendedDemo](https://drive.google.com/file/d/1q2H1CTGDZmXxZOlgiE7Z_3N5p6hyTPRu/view)
+
 ## Contributors
 
 Steve Carofano
